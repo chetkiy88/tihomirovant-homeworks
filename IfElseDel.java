@@ -1,8 +1,8 @@
 public class IfElseDel {
     public static void main(String[] args) {
-        int x = 11;
-        int r = 11;
-        int result;
+        double x = 11;
+        double r = 11;
+        double result;
 
 
         if (x > r) {
